@@ -1,89 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mary Palmer's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Mary Palmer
+Economics Student • Data Analyst (in training)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:mpalm24032@gmail.com">mpalm24032@gmail.com</a>
+| 208-403-2214
+| <a href="https://www.linkedin.com/in/mary-palmer-mp">LinkedIn</a>
 </div>
 
-
 ## Currently
-
-Standing on the shoulders of giants
+Undergraduate economics student applying data science to behavioral and business analytics.
 
 ### Specialized in
+Micro & macroeconomics, statistical analysis, data visualization (Power BI, Excel), Python (pandas), R (tidyverse, ggplot2).
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+### Research / Professional Interests
+Consumer behavior, price sensitivity, demand forecasting, retail analytics, business decision-making, data storytelling.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sept 2024 – Apr 2028`
+__Brigham Young University–Idaho__, Rexburg, ID  
+- B.S. in Economics  
+- GPA: 4.00  
+- Data Science Minor  
+- Full-Ride Merit Scholarship  
+- Econ Society Officer  
+- Relevant Coursework: Microeconomics, Macroeconomics, Intermediate Statistics, Business Analytics, Programming with Functions, Data Science Programming, Spreadsheet Applications
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Skills
 
-- Sizar
+**Data Tools:** Power BI, Excel (PivotTables, VLOOKUP), Python (pandas), R (tidyverse, ggplot2)  
+**Languages:** English (Native), Spanish (Basic)
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+`Apr 2025 – Jul 2025`
+__Teaching Assistant__, BYU-Idaho — Rexburg, ID  
+- Tutored students on elasticity, consumer surplus, and other micro topics, improving exam performance  
+- Managed weekly assignment prep for 65+ students to streamline course delivery
 
+`May 2019 – Sept 2025`
+__Music Teacher__, Self-Employed — Rexburg, ID  
+- Customized lesson plans for 12 students, adapting to cognitive level and age  
+- Created interactive music-theory games to make abstract concepts accessible  
 
+`Jun 2024 – Dec 2024`
+__Account Manager / Trainer__, OptimalShip — Rexburg, ID  
+- Generated $1,800+ in three months through client shipments and B2B sales  
+- Built training presentations to standardize onboarding and communication  
+- Helped redesign pay structure by analyzing employee incentives and proposing autonomy- and performance-driven improvements
 
-## Awards
+## Volunteer / Leadership
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Jan 2023 – Feb 2025`
+__Distinguished Young Women__, Madison County & Idaho State  
+- Local: Named DYW of Madison; mentored 12 juniors; raised $400 from local businesses  
+- State: First runner-up out of 36; earned interview award  
+- Awarded $6,000+ in scholarships for public speaking, piano, and fitness performance
 
 
 
-<!-- ### Footer
+### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2025
